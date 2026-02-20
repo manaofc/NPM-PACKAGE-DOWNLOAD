@@ -1,0 +1,14 @@
+{
+  "name": "npm-zip-downloader",
+  "version": "1.0.0",
+  "description": "Web app to download npm packages as ZIP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.13.5",
+    "express": "^5.2.1"
+  }
+}
